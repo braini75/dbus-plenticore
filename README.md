@@ -51,7 +51,7 @@ If the number of seconds is always 0 or 1 or any other small number, it means th
 
 When you think that the script crashes, start it directly from the command line:
 
-`python /data/dbus-kostal/dbus-plenticore.py`
+`python /data/dbus-kostal/dbus-kostal.py`
 
 and see if it throws any error messages.
 
